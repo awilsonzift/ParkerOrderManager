@@ -1,0 +1,5 @@
+#Lambda Function Project Metadata
+#Mon May 01 13:58:08 EDT 2017
+lastDeploymentFunctionName=ParkerOrderManager
+lastDeploymentBucketName=zift-services-lambda
+lastDeploymentEndpoint=https\://lambda.us-east-1.amazonaws.com/
